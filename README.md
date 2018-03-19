@@ -3,7 +3,7 @@ Whatsapp clone in React Native made under HPDF 2017. (React Native Frontend)
 
 Built as a part of Final Task  submission as HPDF Internship (Hasura.io)
 
-This app is basically a clone to a few screens of Twitter app developed as an exercise to practie UI development in React Native.
+This app is basically a clone to a few screens of Whats app developed as an exercise to practie UI development in React Native.
 
 Features:-
 
